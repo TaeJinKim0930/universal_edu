@@ -1,0 +1,20 @@
+I want to build an AI education agent for Korean adults who struggle to use AI in daily life.
+
+This is not a generic chatbot or LMS.
+I want it to act like an agent that helps people in real-life situations where they get blocked by digital tasks.
+
+Current direction:
+- target users: Korean adults age 40-70
+- especially digital beginners, older adults, non-technical office workers
+- product idea: “AI 첫걸음”
+- it should help with real-life events like hospital visits, bank messages, public service notices, family communication
+- it should not wait passively for prompts only
+- I want proactive but privacy-safe support
+- current promising direction: users register life events inside the app, and the agent prepares helpful actions in advance
+
+My questions:
+1. Is this actually a strong product direction?
+2. What is the sharpest problem definition?
+3. What should be the MVP wedge?
+4. How do I make this feel truly agentic, not like a simple assistant?
+5. What would make this competition-winning rather than just “nice”?
